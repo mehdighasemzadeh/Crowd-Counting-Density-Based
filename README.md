@@ -5,7 +5,7 @@ The model was evaluated in various datasets, we provide many samples which are c
 
 # A video from the results on the dataset
 
-[![Watch the video](pic/001.jpg)](https://youtu.be/XjtfAY3GVUs)
+[![Watch the video](pic/001.jpg)](https://youtu.be/JRlSnw3mvWc)
 
 
 # Test
